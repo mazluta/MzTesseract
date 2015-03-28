@@ -5,3 +5,5 @@ with this exe file you can train graphic file to become traindata file fo TESSER
 after you create Graphic files (each page on separate file or splite the file with the splite file button on the form) 
 you can crate box files, train them by create the *.tr files, create all others needed file
 and the create the lang.traindata file.
+
+download from WIKI page
